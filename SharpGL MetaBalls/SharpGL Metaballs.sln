@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpGL Metaballs", "SharpGL Metaballs\SharpGL Metaballs.csproj", "{23D10457-E5D8-41B2-81A1-9AA1CCA825E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23D10457-E5D8-41B2-81A1-9AA1CCA825E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D10457-E5D8-41B2-81A1-9AA1CCA825E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D10457-E5D8-41B2-81A1-9AA1CCA825E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D10457-E5D8-41B2-81A1-9AA1CCA825E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22DD018F-967E-4C04-9AB6-3015F461F776}
+	EndGlobalSection
+EndGlobal
