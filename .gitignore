@@ -69,3 +69,4 @@ SharpGL-PlasmaTunnel/PlasmaTunnel/bin/Debug/SharpGLWinformsApplication1.vshost.e
 *.manifest
 SharpGL-PlasmaTunnel/PlasmaTunnel/obj/x86/Debug/SharpGLWinformsApplication1.csproj.CopyComplete
 *.txt
+*.lock
