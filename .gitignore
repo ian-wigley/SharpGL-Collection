@@ -60,3 +60,12 @@ SharpGL MetaBalls/packages/SharpGL.2.4.0.0/SharpGL.2.4.0.0.nupkg
 SharpGL MetaBalls/packages/SharpGL.WinForms.2.4.0.0/lib/net40/SharpGL.WinForms.dll
 SharpGL MetaBalls/.vs/WindowsFormsApp1/v15/Server/sqlite3/db.lock
 *.ide
+*.cache
+SharpGL-PlasmaTunnel/.vs/PlasmaTunnel/v15/Server/sqlite3/db.lock
+*.dll
+SharpGL-PlasmaTunnel/PlasmaTunnel/bin/Debug/output.log
+*.exe
+SharpGL-PlasmaTunnel/PlasmaTunnel/bin/Debug/SharpGLWinformsApplication1.vshost.exe.config
+*.manifest
+SharpGL-PlasmaTunnel/PlasmaTunnel/obj/x86/Debug/SharpGLWinformsApplication1.csproj.CopyComplete
+*.txt
