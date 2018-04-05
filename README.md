@@ -1,6 +1,6 @@
 # SharpGL-Collection
 
-A collection of OpenGL programs converted in C# with SharpGL, not written by my, just converted to C#.
+A collection of interesting OpenGL programs converted in C# with SharpGL, not written by my, just converted to C#.
 
 Metaballs
 
@@ -9,3 +9,7 @@ Metaballs
 Plasma Tunnel
 
 ![](SharpGL-PlasmaTunnel/PlasmaTunnel.jpg)
+
+Peristalis
+
+![](SharpGL-Peristalis/Peristalis.jpg)
