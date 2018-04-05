@@ -14,6 +14,10 @@ Peristalis
 
 ![](SharpGL-Peristalis/Peristalis.jpg)
 
+Specular Torus
+
+![](SharpGL-SpecularTorus/SpecularTorus.jpg)
+
 Tentacles
 
 ![](SharpGL-Tentacles/Tentacles.jpg)
