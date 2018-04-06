@@ -6,6 +6,10 @@ Metaballs
 
 ![](SharpGL-MetaBalls/Metaballs1.png)
 
+Environment Metaballs
+
+![](SharpGL-MetaBallsEnviro/MetaBallsEnviro.jpg)
+
 Plasma Tunnel
 
 ![](SharpGL-PlasmaTunnel/PlasmaTunnel.jpg)
