@@ -25,3 +25,7 @@ Specular Torus
 Tentacles
 
 ![](SharpGL-Tentacles/Tentacles.jpg)
+
+VSync Demo
+
+![](SharpGL-Demo-Vsync/Demo_Vsync.jpg)
