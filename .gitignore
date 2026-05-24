@@ -71,3 +71,11 @@ SharpGL-PlasmaTunnel/PlasmaTunnel/obj/x86/Debug/SharpGLWinformsApplication1.cspr
 *.txt
 *.lock
 SharpGL-Peristalis/Peristalis/bin/Debug/SharpGLWinformsApplication1.vshost.exe.config
+/SharpGL-Demo-64k/.idea
+/SharpGL-Demo-64k/Demo/bin
+/SharpGL-Demo-64k/Demo/obj
+/SharpGL-Demo-Vsync/Demo/bin
+/SharpGL-Demo-Vsync/.idea
+/SharpGL-Demo-Vsync/Demo/obj
+/SharpGL-Demo-64k/packages
+/SharpGL-Demo-Vsync/packages
